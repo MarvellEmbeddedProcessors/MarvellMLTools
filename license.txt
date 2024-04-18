@@ -1,0 +1,56 @@
+/******************************************************************************
+ * Copyright (c) 2024 Marvell. All rights reserved. The files in this
+ * repository are subject to the limited use license agreement by and
+ * between Marvell and you, your employer or other entity on behalf of
+ * whom you act. In the absence of such license agreement the following
+ * file is subject to Marvell's standard Limited Use License Agreement.
+ *****************************************************************************/
+
+Marvell ML Tools License Summary
+================================
+
+The Marvell ML Tools contains source code or binaries that are linked
+with a number of open source projects along with code and binaries developed
+by Marvell. This file gives a short overview of the various components and
+pointers to their exact license information.  In the event of a conflict, the
+license file for a specific file or project takes precedence over this file.
+This file is a summary only.
+
+Marvell ML Tools Components
+===========================
+
+Component:      TinyXML-2
+License:        zlib
+License Text:   https://github.com/leethomason/tinyxml2/blob/master/LICENSE.txt
+Project URL:    http://elm-chan.org/fsw/ff/00index_e.html
+Linked with:    mrvl-mlsim, mrvl-tmlc
+
+Component:      Rapid JSON
+License:        MIT
+License Text:   https://rapidjson.org/
+Project URL:    https://rapidjson.org/
+Linked with:	mrvl-tmlc, mrvl-mlsim
+
+Component:      SwiftShader
+License:        MIT
+License Text:   https://github.com/google/swiftshader/blob/master/LICENSE.txt
+Project URL:    https://github.com/google/swiftshader
+Linked with:	mrvl-mlsim
+
+Component:      FP16
+License:        MIT
+License Text:   https://github.com/Maratyszcza/FP16/blob/master/LICENSE
+Project URL:    https://github.com/Maratyszcza/FP16
+Linked with:    mrvl-mlsim
+
+Component:      LLVM C++ library
+License:        Apache 2.0
+License Text:   https://llvm.org/docs/DeveloperPolicy.html#new-llvm-project-license-framework
+Project URL:    https://llvm.org/
+Linked with:    mrvl-tmlc
+
+Component:      mlutils.h
+License:        BSD-3-Clause
+License Text:   include/ml-utils.h (SPDX reference)
+Project URL:    Marvell.com
+Linked with:    mrvl-mlsim
