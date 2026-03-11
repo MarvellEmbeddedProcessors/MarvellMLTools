@@ -18,6 +18,6 @@ hardware
 Adding Marvell tools binaries to PATH will enable TVM to access the toolchain
 
 For a detailed usage guide, please refer to:
-https://github.com/apache/tvm/blob/main/docs/how_to/deploy/mrvl.rst
+https://github.com/MarvellEmbeddedProcessors/tvm/blob/master/docs/how_to/deploy/mrvl.rst
 
 ###### NOTE: The toolchain is tested on an x86 platform running Ubuntu 22.04
